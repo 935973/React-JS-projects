@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+.header {
+  font-size: large;
+  border: 2px solid black;
+  text-align: center;
+  height: 20px;
+  background-color: rgb(120, 46, 46);
+  color: white;
+  padding: 3px;
+  font-weight: 500;
+}
+
+.AddContact {
+ 
+  font-size: large;
+  font-weight: bold;
+  font-weight: 800;
+  margin-top: 8px;
+  font-family: "Courier New", Courier, monospace;
+}
+.btn {
+  color: brown;
+  border: 1px solid cadetblue;
+}
+.contacts {
+  display: flex;
+  border: 2px solid rgb(19, 15, 15);
+  height: 20px;
+  width: 80%;
+  justify-content: space-between;
+  background-color: #e094e9;
+  margin-bottom: 2px;
+  margin-left: 6px;
+  margin-right: 5px;
+  padding: 5px;
+}
+.email {
+  font-size: 50;
+}
+.ContactHeader {
+  margin-top: 20px;
+  font-size: large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
